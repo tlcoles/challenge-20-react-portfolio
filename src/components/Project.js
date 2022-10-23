@@ -1,1 +1,1 @@
-export default function Project() {}
+export default function Projects() {}
