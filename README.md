@@ -4,6 +4,8 @@ An assignment of the ESMT Coding Boot Camp. The challenge is to build a portfoli
 ## Special challenges
 
 ## Gratitude
+* FreeCodeCamp tutorial [How to Build a Portfolio Website with React](https://www.freecodecamp.org/news/build-portfolio-website-react/)
+* Devwares tutorial [How to create React Forms using Tailwind CSS](https://www.devwares.com/blog/how-to-create-react-forms-using-tailwind-css/)
 
 ## Contact
 Tammi L. Coles  
