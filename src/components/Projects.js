@@ -12,7 +12,7 @@ export default function Projects() {
                         Portfolio
                     </h1>
                     <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-                        Learn more about the projects I have worked on as part of the ESMT Coding Boot Camp.
+                        Learn more about the projects I have worked on as part of the ESMT Coding Boot Camp. Hover over the images for descriptions and links to the projects on GitHub et al.
                     </p>
                 </div>
                 <div className="flex flex-wrap -m-4">
