@@ -26,4 +26,5 @@ An assignment of the ESMT Coding Boot Camp. The challenge is to build a portfoli
 ## Contact
 Tammi L. Coles  
 GitHub: [@tlcoles](https://github.com/tlcoles)  
-Netlify deployment: https://wonderful-salmiakki-3c4689.netlify.app/ 
+Netlify deployment: [https://wonderful-salmiakki-3c4689.netlify.app/](https://wonderful-salmiakki-3c4689.netlify.app/)  
+GitHub Pages deployment: [https://tlcoles.github.io/challenge-20-react-portfolio/](https://tlcoles.github.io/challenge-20-react-portfolio/)
