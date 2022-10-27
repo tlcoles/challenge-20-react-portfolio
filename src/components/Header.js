@@ -17,7 +17,9 @@ export default function Header() {
               <a href="#projects" className="mr-5 hover:text-white">
                 Portfolio
               </a>
-
+              <a href="#contact" className="mr-5 hover:text-white">
+                Contact
+              </a>
               {/* Remove skills and testimonials sections for the moment */}
               {/* <a href="#skills" className="mr-5 hover:text-white">
                 Skills
