@@ -24,7 +24,7 @@ export const projects = [
         title: "MERN Challenge: Budget Tracker",
         subtitle: "React, MongDB, Heroku",
         description: "Create a single-page application to track expenses",
-        image: "./React-App-desktop.png",
+        image: "../public/React-App-desktop.png",
         link: "https://github.com/tlcoles/BudgetOnTheGo",
     },
 ];
